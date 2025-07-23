@@ -9,6 +9,7 @@ h1 {
     color: white;
     text-align: center;
     height: 5rem;
+    position:sticky;
     line-height: 5rem;
     font-weight: 600;
     text-shadow: 4px 4px 4px red;
