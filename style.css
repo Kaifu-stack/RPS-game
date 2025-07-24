@@ -5,6 +5,9 @@
 }
 
 h1 {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
     background-color: #081f31;
     color: white;
     text-align: center;
